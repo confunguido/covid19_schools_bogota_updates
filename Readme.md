@@ -1,2 +1,4 @@
 ## Descripción
 En este repositorio se encuentra un documento actualizado de las estimaciones del impacto de apertura escolar en Bogotá. Utilizamos un modelo estocástico basado en agentes que representa la población de Bogotá.  El contagio de SARS-CoV-2 se puede dar en cualquiera de los espacios donde los individuos interactúan físicamente, tales como estar en la casa, salir a visitar a alguien, ir al trabajo o al colegio o centro educativo. Utilizamos este modelo, calibrado de acuerdo a reportes diarios de muertes,  para reconstruir la dinámica de transmisión en la ciudad. En este documento mostramos los resultados actualizados de la estimación del impacto de apertura escolar en Bogotá, Colombia. Específicamente, este documento muestra el impacto de diferentes capacidades y grados escolares. Para más información, consulte el pre-print disponible en línea <https://osf.io/ebjx9/>.
+
+
